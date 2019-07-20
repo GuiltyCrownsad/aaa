@@ -1,0 +1,3 @@
+sv_maxspeed 500
+sm_maxjump_speed 500
+sv_enablebunnyhopping 1
